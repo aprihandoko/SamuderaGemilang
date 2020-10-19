@@ -1,0 +1,95 @@
+body {
+	background-color: #E4E4E4;
+	font-family: 'Montserrat';
+}
+
+/*header*/
+.bg1{
+	width: 100%;
+	height: 180px;
+	position: relative;
+	text-align: center;
+	color: white;
+}
+
+.isi_header{
+	position: absolute;
+  	top: 8px;
+  	margin-left: 10px;
+}
+
+/*nav*/
+.logo{
+	padding-top: 10px;
+	padding-left: 25px;
+	height: 150px;
+	width: 600px;
+}
+
+nav ul {
+	padding-top: 55px;
+	font-size: 20px;
+}
+
+.navbar-item {
+	text-shadow: 1px 1px #000000;
+}
+
+.dropdown-item{
+	font-size: 20px;
+	font-weight: bold;
+}
+.menu {
+	font-weight: bold;
+}
+/*akhir header*/
+
+/*first row*/
+.line{
+	padding-left: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: #607C94;
+	font-size: 20px;
+}
+/*akhir first row*/
+
+/*second row*/
+h1 {
+	font-size: 45px;
+	margin-top: 50px;
+	margin-left:60px;
+	font-weight: bold;
+	text-shadow: 1px 1px #ffffff;
+}
+
+/*akhir second row*/
+
+/*footer*/
+.nav_footer{
+	margin: auto;
+	margin-bottom: -20px; 
+}
+
+.logo_footer{
+	margin: auto;
+	height: 100px;
+	width: 120px;
+	margin-bottom: 20px;
+}
+
+.bg4{
+	height: 270px;
+	width: 100%;
+	position: absolute;
+	text-align: center;
+	margin-top: 50px;
+}
+
+footer{
+	color: rgb(230,230,230);
+	position: relative;
+	text-align: center;
+	top: 50px;
+}
+/*akhir footer*/
